@@ -5,7 +5,6 @@
 <li>Kakao Enterprise SW Academy 3rd</li>
 </p>
 
----
 
 ## 💻 Project
 <p>
@@ -13,14 +12,12 @@
 <h3><a href="https://github.com/NaMinhyeok/dmarket-back"> DmarKeT </a> &nbsp; <sub> 2024.01 - 2024.02 (BackEnd)</sub></h3>
 <h3> <a href="https://github.com/NaMinhyeok/Travelog-front"> Travelog </a> &nbsp; <sub> 2023.09 - 2023.12 (FrontEnd)</sub> </h3>
 
----
 ## 📈 Training
 <p>
 <li> Multi Cloud Orchestration (Terraform) <sub> 2023.12 </sub>  </li>
 <li> Monitoring and Testing Implementation in a DevOps Environment (Elastic Stack)  <sub> 2023.11 </sub> </li>
 </p>
 
----
 
 [//]: # (## Award)
 
@@ -41,7 +38,6 @@
 <li> KEA SW Academy <sub> 2023.09 - 2024.02 </sub>  </li>
 </p>
 
----
 
 [//]: # (##  Experience)
 
@@ -75,7 +71,6 @@
 
 </details>
 
----
 
 ## 🎲 Stats
 [![Na Minhyeok's github stats](https://github-readme-stats.vercel.app/api?username=naminhyeok)](https://github.com/naminhyeok/github-readme-stats)
