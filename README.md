@@ -36,6 +36,7 @@
 ## 🏃 Activity
 <p>
 <li> KEA SW Academy <sub> 2023.09 - 2024.02 </sub>  </li>
+<li> 프로그래머스 데브코스 백엔드 과정 2024.07 ~ </li>
 </p>
 
 
@@ -71,6 +72,7 @@
 
 </details>
 
-
+## 🏠 Blog
+<a href="https://velog.io/@ehs208"><img src="https://velog-readme-stats.vercel.app/api?name=naminhyeok"/></a>
 ## 🎲 Stats
-[![Na Minhyeok's github stats](https://github-readme-stats.vercel.app/api?username=naminhyeok)](https://github.com/naminhyeok/github-readme-stats)
+[![Na Minhyeok's github stats](https://github-readme-stats.vercel.app/api?username=Naminhyeok)](https://github.com/naminhyeok/github-readme-stats)
