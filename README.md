@@ -73,6 +73,6 @@
 </details>
 
 ## 🏠 Blog
-<a href="https://velog.io/@ehs208"><img src="https://velog-readme-stats.vercel.app/api?name=naminhyeok"/></a>
+<a href="https://velog.io/@naminhyeok"><img src="https://velog-readme-stats.vercel.app/api?name=naminhyeok"/></a>
 ## 🎲 Stats
 [![Na Minhyeok's github stats](https://github-readme-stats.vercel.app/api?username=Naminhyeok)](https://github.com/naminhyeok/github-readme-stats)
