@@ -20,6 +20,7 @@
   > 가천대학교 온라인 저지 서비스
 - [DmarKeT](https://github.com/NaMinhyeok/dmarket-back) - Backend (2024.01 ~ 2024.02)
   > kakao Gachon SW Academy - DKTechin 자사 쇼핑몰 프로젝트
+
 [//]: # (## Award)
 
 [//]: # (<p>)
