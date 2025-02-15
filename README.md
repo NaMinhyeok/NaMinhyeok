@@ -6,15 +6,20 @@
 </p>
 
 ## 📋 Job Description & Portfolio
-<a href = "https://almondine-bolt-1cd.notion.site/13d8fce1836b80a590c1ebf8e6dc5e91?pvs=74">NaMinhyeok Job Description</a>
-<a href = "https://almondine-bolt-1cd.notion.site/5a674683ca194f46bbe698f5ec852067?pvs=74">NaMinhyeok Portfolio</a>
-## 💻 Project
-<p>
-<h3><a href = "https://github.com/prgrms-be-devcourse/NBE1_2_Team04"> Foot With Me</a> <sub> 2024.09 - 2024.10 (BackEnd) </sub></h3>
-<h3><a href="https://github.com/NaMinhyeok/GachonOJ-Backend"> GachonOJ </a> &nbsp; <sub> 2024.03 - 2024.05 (PM,BackEnd) </sub></h3>
-<h3><a href="https://github.com/NaMinhyeok/dmarket-back"> DmarKeT </a> &nbsp; <sub> 2024.01 - 2024.02 (BackEnd)</sub></h3>
-<h3> <a href="https://github.com/NaMinhyeok/Travelog-front"> Travelog </a> &nbsp; <sub> 2023.09 - 2023.12 (FrontEnd)</sub> </h3>
+[Job Description](https://almondine-bolt-1cd.notion.site/13d8fce1836b80a590c1ebf8e6dc5e91?pvs=74)
 
+[Portfolio](https://almondine-bolt-1cd.notion.site/5a674683ca194f46bbe698f5ec852067?pvs=74)
+## 💻 Projects
+- [Loopy](https://github.com/Nexters/Jaknaeso-server) - Backend (2025.01 ~ )
+  > 가치관 탐색 서비스
+- [Quizy](https://github.com/prgrms-web-devcourse-final-project/WEB1_1_Endpoint_BE) - Backend (2024.11 ~ 2024.12)
+  > 온라인 퀴즈 게임 서비스
+- [Foot With Me](https://github.com/prgrms-be-devcourse/NBE1_2_Team04) - Backend (2024.09 ~ 2024.10)
+  > 풋살 팀 매칭 서비스
+- [GachonOJ](https://github.com/gcu-LastDance/GachonOJ-Backend) - Backend (2024.03 ~ 2024.05)
+  > 가천대학교 온라인 저지 서비스
+- [DmarKeT](https://github.com/NaMinhyeok/dmarket-back) - Backend (2024.01 ~ 2024.02)
+  > kakao Gachon SW Academy - DKTechin 자사 쇼핑몰 프로젝트
 [//]: # (## Award)
 
 [//]: # (<p>)
@@ -29,15 +34,13 @@
 
 [//]: # (</p>)
 
-## 🎓Education 
-<p>
-<li> Programmers Backend 1st Devcourse <sub> 2024.07 ~ 2024.12 </sub> </li>
-<li> KEA SW Academy <sub> 2023.09 - 2024.02 </sub>  </li>
-<li> Gachon University - Computer Science <sub> 2019.03 - 2025.02 </sub>  </li>
-</p>
+## 🎓Education
+- Programmers Backend 1st Devcourse (2024.07 ~ 2024.12)
+- KEA SW Academy (2023.09 - 2024.02)
+- Gachon University - Computer Science (2019.03 - 2025.02)
 
-
-[//]: # (##  Experience)
+## 🔥Experience
+- Nexters 26th Backend Developer (2025.01 ~ 2025.02)
 
 [//]: # (<p>)
 
