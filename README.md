@@ -8,7 +8,7 @@
 ## 📋 Job Description & Portfolio
 [Job Description](https://almondine-bolt-1cd.notion.site/13d8fce1836b80a590c1ebf8e6dc5e91?pvs=74)
 
-[Portfolio](https://almondine-bolt-1cd.notion.site/5a674683ca194f46bbe698f5ec852067?pvs=74)
+[Portfolio](https://almondine-bolt-1cd.notion.site/1b48fce1836b80028e2df5987413f03c?pvs=4)
 ## 💻 Projects
 - [Loopy](https://github.com/Nexters/Jaknaeso-server) - Backend (2025.01 ~ )
   > 가치관 탐색 서비스
