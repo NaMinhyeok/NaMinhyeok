@@ -46,6 +46,7 @@
 ## 🚀 OpenSource Contribution
 - [Gradle](https://github.com/gradle/gradle/pull/32639) - Bug Fix
 - [Gradle](https://github.com/gradle/gradle/pull/32924) - Documentation
+- [Gradle](https://github.com/gradle/gradle/pull/33935) - Refactor Error Message
 
 [//]: # (<p>)
 
